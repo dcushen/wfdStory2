@@ -1,0 +1,3 @@
+Rustafied
+
+Rust is a game which is made up of an average of 60-200 players, set on an island featuring abandoned monuments, decaying structures and players with a lust for blood. You spawn in initially, naked, alone and with only a rock and torch. From here you must find your way, hitting trees for wood, breaking rocks for stone, sulfur and iron ore. Next comes your tools, your home and eventually server domination. 
